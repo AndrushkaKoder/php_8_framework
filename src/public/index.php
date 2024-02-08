@@ -7,5 +7,7 @@ session_start();
 
 $app = new \Kernel\App();
 
+dd(phpinfo());
+
 $app->run();
 
