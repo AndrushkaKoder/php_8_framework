@@ -8,3 +8,4 @@ session_start();
 $app = new \Kernel\App();
 
 $app->run();
+
