@@ -9,4 +9,5 @@ $app = new \Kernel\App();
 
 $app->run();
 
-
+echo phpinfo();
+echo 'xxxx';
